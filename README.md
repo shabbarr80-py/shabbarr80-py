@@ -1,125 +1,247 @@
 <div align="center">
 
-# 👋 Hi, I'm Shabbar Raza
+# Hi, I'm Shabbar Raza 👋
 
-### 💻 Developer • Python Learner • Builder
+### Python Developer • AI Builder • Full-Stack Learner
 
-I learn by building real-world projects and turning ideas into practical software.
+I build practical software, AI-powered applications, and developer tools that solve real-world problems.
 
-[![GitHub](https://img.shields.io/badge/GitHub-shabbarr80--py-181717?style=for-the-badge&logo=github)](https://github.com/shabbarr80-py)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shabbar%20Raza-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shabbar-raza-611355400/)
+<p>
+  <a href="https://github.com/shabbarr80-py">
+    <img src="https://img.shields.io/badge/GitHub-shabbarr80--py-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/shabbar-raza-611355400/">
+    <img src="https://img.shields.io/badge/LinkedIn-Shabbar%20Raza-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=shabbarr80-py&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-- 🐍 Currently focused on **Python & Software Development**
-- 🌐 Exploring **Web Development & AI-powered applications**
-- 🚀 Building projects that solve practical problems
-- 📚 Learning through real-world projects
-- 🤝 Interested in meaningful collaborations
+I am a developer focused on building useful, reliable, and user-friendly software.
+
+- Currently learning and building with **Python**
+- Exploring **AI applications, RAG, OCR, and document intelligence**
+- Developing full-stack applications with **Next.js and FastAPI**
+- Interested in developer tools, automation, and practical problem-solving
+- Learning through real-world projects rather than theory alone
+- Open to collaboration on meaningful software projects
+
+```python
+class ShabbarRaza:
+    role = "Python Developer"
+    location = "Karachi, Pakistan"
+    interests = [
+        "Artificial Intelligence",
+        "Web Development",
+        "Developer Tools",
+        "Automation",
+        "Open Source"
+    ]
+
+    currently_learning = [
+        "Advanced Python",
+        "FastAPI",
+        "Next.js",
+        "RAG Systems",
+        "Software Architecture"
+    ]
+
+    goal = "Build software that creates real-world impact"
+```
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-### 🏥 Medicare AI
+### Medicare AI
 
-AI-powered healthcare document analysis.
+AI-powered healthcare document analysis platform.
 
-**Focus:**
-- OCR
-- RAG
-- AI
-- Document Analysis
-- Next.js
-- FastAPI
+**What it explores:**
 
-🔗 [View Repository](https://github.com/ali-raza-py/medicare-ai)
+- OCR-based document processing
+- Retrieval-Augmented Generation
+- Medical document understanding
+- AI-assisted information extraction
+- Modern full-stack architecture
+
+**Built with:**
+
+`Python` `FastAPI` `Next.js` `OCR` `RAG` `AI`
+
+<a href="https://github.com/ali-raza-py/medicare-ai">
+  View Repository →
+</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 👨‍💻 Code-Yaar
+### Code-Yaar
 
-A learning platform concept helping students:
+A structured learning platform concept designed to help students move from learning to building.
 
-**Learn → Understand → Build → Practice → Prove → Grow**
+**Learning journey:**
 
-**Focus:**
-- Structured Learning
-- Coding Practice
-- Projects
-- Developer Growth
+```text
+Learn → Understand → Build
+Practice → Prove → Grow
+```
 
-🔗 [View Repository](https://github.com/ali-raza-py/Code-Yaar)
+**Core ideas:**
+
+- Guided learning paths
+- Coding practice
+- Project-based education
+- Developer growth
+- Skill verification
+
+<a href="https://github.com/ali-raza-py/Code-Yaar">
+  View Repository →
+</a>
 
 </td>
 
 <td width="33%" valign="top">
 
-### 📦 RepoReady
+### RepoReady
 
 An evidence-based GitHub repository readiness analyzer.
 
-Checks whether documentation actually matches the code and project structure.
+It analyzes whether project documentation accurately reflects the actual codebase and structure.
+
+**Potential checks:**
+
+- README quality
+- Documentation accuracy
+- Project structure
+- Setup instructions
+- Missing or outdated information
 
 **Focus:**
-- GitHub
-- Documentation
-- Repository Analysis
-- Developer Experience
+
+`GitHub` `DX` `Automation` `Code Analysis`
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technology Stack
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,html,css" />
+</p>
 
-### Frameworks & Tools
+### Frameworks and Libraries
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,fastapi" />
+</p>
+
+### Tools and Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,supabase,vercel,vscode" />
+</p>
 
 ---
 
-## 📚 Currently Learning
+## Current Learning Journey
+
+| Area | Progress | Current Focus |
+|---|---:|---|
+| Python | ████████████████░░░░ | Clean code, OOP, automation, APIs |
+| Web Development | ██████████████░░░░░░ | Full-stack application development |
+| Git & GitHub | ███████████████░░░░░ | Collaboration and project workflows |
+| AI Applications | ████████████░░░░░░░░ | RAG, OCR, agents, and document analysis |
+| Full-Stack Development | ██████████░░░░░░░░░░ | Connecting frontend, backend, and databases |
+| Software Architecture | ████████░░░░░░░░░░░░ | Scalable and maintainable systems |
+
+---
+
+## What I Like Building
+
+- AI-powered productivity tools
+- Document analysis systems
+- Developer utilities
+- Educational platforms
+- REST APIs
+- Automation workflows
+- Data-driven web applications
+- Tools that improve developer experience
+
+---
+
+## Development Principles
 
 ```text
-Python
-████████████████░░░░
+Build with purpose.
+Keep learning.
+Write maintainable code.
+Document what you create.
+Solve real problems.
+Improve every iteration.
+```
 
-Web Development
-██████████████░░░░░░
+---
 
-Git & GitHub
-███████████████░░░░░
+## GitHub Activity
 
-AI Applications
-███████████░░░░░░░░░
+<div align="center">
 
-Full-Stack Development
-█████████░░░░░░░░░░░
+<img src="https://github-readme-stats.vercel.app/api?username=shabbarr80-py&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbarr80-py&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+<br />
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=shabbarr80-py&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbarr80-py&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## Let's Connect
+
+I am interested in connecting with developers, builders, students, and teams working on useful technology.
+
+- GitHub: [@shabbarr80-py](https://github.com/shabbarr80-py)
+- LinkedIn: [Shabbar Raza](https://www.linkedin.com/in/shabbar-raza-611355400/)
+
+If you are building something meaningful, feel free to connect.
+
+---
+
+<div align="center">
+
+### Building, learning, and improving — one project at a time.
+
+</div>
