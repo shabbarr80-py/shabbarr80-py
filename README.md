@@ -1,13 +1,25 @@
+```markdown
 <div align="center">
 
-![Shabbar Raza](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=230&section=header&text=Shabbar%20Raza&fontSize=60&fontColor=ffffff&fontAlignY=36&desc=Python%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20Developer&descSize=20&descAlignY=58)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1C1D20,100:FFC928&text=Shabbar%20Raza&fontSize=48&fontColor=F2F4F1&fontAlignY=38&desc=Python%20%7C%20AI%20%7C%20Data%20Analysis%20%7C%20Software%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
 
-### Computer Science student building AI-powered products with clean, modern interfaces
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=FFC928&center=true&vCenter=true&width=650&lines=Python+Developer+in+Progress;Exploring+Artificial+Intelligence;Data+Analysis+%26+Machine+Learning;Building+Projects+and+Learning+Every+Day" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabbar-raza-611355400)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shabbarr80-py)
+<br/>
 
-[About](#-about-me) • [Tech Stack](#-tech-stack) • [Projects](#-projects) • [Stats](#-github-stats) • [Contact](#-contact)
+<a href="https://www.linkedin.com/in/shabbar-raza-611355400/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-FFC928?style=for-the-badge&logo=linkedin&logoColor=1C1D20"/>
+</a>
+<a href="https://github.com/shabbarr80-py">
+<img src="https://img.shields.io/badge/GitHub-Follow-F2F4F1?style=for-the-badge&logo=github&logoColor=1C1D20"/>
+</a>
+<a href="mailto:shabbar80@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-FFC928?style=for-the-badge&logo=gmail&logoColor=1C1D20"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shabbarr80-py&label=PROFILE+VIEWS&color=FFC928&style=flat-square" />
 
 </div>
 
@@ -15,84 +27,174 @@
 
 ## 👨‍💻 About Me
 
-I enjoy taking an idea from a machine-learning model all the way to a polished product people want to use. I write **Python** and **C++**, build frontends with **React, Next.js and TypeScript**, and pay close attention to design details like motion, depth and clarity.
+I'm **Shabbar Raza**, a Computer Science student from Karachi, Pakistan, interested in Python programming, Artificial Intelligence, Data Analysis, and software development.
 
-| 🎯 Focus | 🔭 Right now |
-| --- | --- |
-| AI/ML applications<br>Full-stack web development<br>Modern, animated UI/UX | Building MedCare AI, an AI healthcare platform<br>Building LibrarySphere, a library management system<br>Deepening applied machine learning<br>Open to hackathons and collaborations |
+I enjoy turning ideas into practical projects, exploring new technologies, and solving technical problems through code.
 
----
-
-## 🧰 Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Backend & AI/ML**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Tools**  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+- 🎓 Currently studying Computer Science
+- 🐍 Working with Python and C++
+- 🤖 Exploring Artificial Intelligence and Machine Learning
+- 📊 Interested in Data Analysis and visualization
+- 🧠 Practicing Data Structures and Algorithms
+- 🎨 Exploring UI/UX Design and user-friendly experiences
+- 🚀 Learning by building real-world projects
 
 ---
 
-## 🚀 Projects
+## 🛠️ Tech Stack
 
-### 🏥 MedCare AI
+### Programming Languages
 
-*An AI-powered healthcare and diagnostic web platform, built for a hackathon.*
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp&theme=dark"/>
+</p>
 
-| | |
-| --- | --- |
-| **My role** | Frontend lead: UI/UX design and implementation |
-| **Design** | Glassmorphism, 3D animations and animated SVG elements |
-| **Architecture** | Next.js frontend connected to a Python/FastAPI backend serving ML models |
-| **Stack** | `Next.js` `React` `TypeScript` `Tailwind CSS` `Python` `FastAPI` |
+### Data Analysis & Machine Learning
 
-### 📚 [LibrarySphere](https://github.com/shabbarr80-py/librarysphere)
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Exploratory_Data_Analysis-FFC928?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Regression-1C1D20?style=for-the-badge"/>
+</p>
 
-*A library management system covering catalog management, member administration, circulation, reporting and audit tracking.*
+### Database & Tools
 
-| | |
-| --- | --- |
-| **Status** | In progress (Phase 1: project setup) |
-| **Stack** | `React` `TypeScript` `Vite` `Node.js` `Express` `PostgreSQL` |
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode&theme=dark"/>
+</p>
+
+### Design
+
+<p>
+<img src="https://img.shields.io/badge/UI_Design-1C1D20?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UX_Design-FFC928?style=for-the-badge&logoColor=black"/>
+<img src="https://img.shields.io/badge/Wireframing-1C1D20?style=for-the-badge"/>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🎧 Spotify Popularity Prediction
+
+A machine learning project exploring Spotify track data and predicting music popularity.
+
+- Dataset: 62,318 tracks
+- Data exploration and preprocessing
+- Popularity prediction
+- Model evaluation using MAE
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Machine Learning
+
+[View Repository](https://github.com/shabbarr80-py/spotify-popularity-prediction)
+
+---
+
+### 🏗️ BuildAtlas
+
+A project workspace designed around software project analysis, architecture planning, and development workflows.
+
+- Next.js application
+- FastAPI backend
+- PostgreSQL database
+- GitHub research integration
+- AI-compatible provider architecture
+
+---
+
+### 📚 Code-Yaar
+
+An educational coding platform focused on helping learners develop programming skills through structured learning.
+
+- Interactive coding lessons
+- Python and C++ learning paths
+- Coding challenges
+- Progress tracking
+- Guided projects
+
+---
+
+### 🏥 Medicare AI
+
+An AI-focused project exploring medical document intelligence and information extraction.
+
+---
+
+### 🏆 Hackathon Project — Ghost Data Still Exists
+
+Worked on a deletion-audit agent concept that investigates whether deleted data remains across different systems.
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shabbarr80-py&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shabbarr80-py&layout=compact&theme=tokyonight&hide_border=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shabbarr80-py&show_icons=true&hide_border=true&bg_color=1C1D20&title_color=FFC928&icon_color=FFC928&text_color=F2F4F1"/>
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=shabbarr80-py&theme=tokyo-night&hide_border=true&area=true)
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shabbarr80-py&layout=compact&hide_border=true&bg_color=1C1D20&title_color=FFC928&text_color=F2F4F1"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=shabbarr80-py&hide_border=true&background=1C1D20&ring=FFC928&fire=FFC928&currStreakLabel=FFC928&sideLabels=F2F4F1&dates=F2F4F1" width="80%"/>
 
 </div>
 
 ---
 
-## 📫 Contact
+## 📈 Contribution Activity
 
-Interested in AI, web development, or working together? Let's talk.
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shabbar_Raza-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shabbar-raza-611355400)
-[![GitHub](https://img.shields.io/badge/GitHub-shabbarr80--py-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shabbarr80-py)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shabbarr80-py&bg_color=1C1D20&color=F2F4F1&line=FFC928&point=FFC928&area=true&hide_border=true" width="100%"/>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:4F46E5,100:06B6D4&height=100&section=footer)
+</div>
+
+---
+
+## 🎓 Learning & Development
+
+Currently focusing on:
+
+- Python programming and problem solving
+- Data Structures and Algorithms
+- Data Analysis with Pandas and NumPy
+- Machine Learning fundamentals
+- Database concepts and PostgreSQL
+- UI/UX design fundamentals
+- Building practical software projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/shabbar-raza-611355400/">
+<img src="https://img.shields.io/badge/LinkedIn-Shabbar_Raza-FFC928?style=for-the-badge&logo=linkedin&logoColor=1C1D20"/>
+</a>
+
+<a href="https://github.com/shabbarr80-py">
+<img src="https://img.shields.io/badge/GitHub-shabbarr80--py-F2F4F1?style=for-the-badge&logo=github&logoColor=1C1D20"/>
+</a>
+
+<a href="mailto:shabbar80@gmail.com">
+<img src="https://img.shields.io/badge/Email-shabbar80%40gmail.com-FFC928?style=for-the-badge&logo=gmail&logoColor=1C1D20"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✍️ My Developer Philosophy
+
+# Build. Learn. Experiment. Improve.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC928,100:1C1D20&height=110&section=footer" width="100%"/>
+
+</div>
+```
