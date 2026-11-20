@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1C1D20,100:FFC928&text=Shabbar%20Raza&fontSize=48&fontColor=F2F4F1&fontAlignY=38&desc=Python%20%7C%20AI%20%7C%20Data%20Analysis%20%7C%20Software%20Development&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
